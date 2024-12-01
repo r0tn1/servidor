@@ -10,6 +10,7 @@
       "minecraft:flower_forest": "2024-11-17 02:06:44 +0000",
       "minecraft:beach": "2024-11-17 00:57:23 +0000",
       "minecraft:forest": "2024-11-16 11:35:00 +0000",
+      "minecraft:sparse_jungle": "2024-12-01 15:59:10 +0000",
       "minecraft:deep_ocean": "2024-11-25 23:45:19 +0000",
       "minecraft:river": "2024-11-17 01:05:11 +0000",
       "minecraft:lukewarm_ocean": "2024-11-25 23:07:59 +0000",
@@ -2724,6 +2725,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-01 16:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-01 16:10:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-01 13:18:31 +0000"
@@ -2808,6 +2821,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-12-01 16:01:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-01 16:01:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-01 13:15:57 +0000"
@@ -2826,6 +2851,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-12-01 16:01:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2024-12-01 13:37:10 +0000"
@@ -2835,6 +2866,12 @@
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-01 13:21:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-12-01 16:01:30 +0000"
     },
     "done": true
   },
@@ -2859,6 +2896,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-01 13:37:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-01 16:10:25 +0000"
     },
     "done": true
   },

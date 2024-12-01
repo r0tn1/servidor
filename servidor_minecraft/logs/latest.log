@@ -1,114 +1,20 @@
-[11:51:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[11:51:47] [ServerMain/INFO]: Loaded 1290 recipes
-[11:51:47] [ServerMain/INFO]: Loaded 1399 advancements
-[11:51:48] [Server thread/INFO]: Starting minecraft server version 1.21
-[11:51:48] [Server thread/INFO]: Loading properties
-[11:51:48] [Server thread/INFO]: Default game type: SURVIVAL
-[11:51:48] [Server thread/INFO]: Generating keypair
-[11:51:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:51:48] [Server thread/INFO]: Using epoll channel type
-[11:51:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11:51:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[11:51:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11:51:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[11:51:48] [Server thread/INFO]: Preparing level "world"
-[11:51:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[11:51:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[11:51:51] [Server thread/INFO]: Time elapsed: 431 ms
-[11:51:51] [Server thread/INFO]: Done (3.013s)! For help, type "help"
-[11:52:05] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:40858] logged in with entity id 19 at (-489.3675623477288, 70.0, -168.89209326794966)
-[11:52:05] [Server thread/INFO]: Rotnni joined the game
-[11:52:36] [Server thread/INFO]: Rotnni lost connection: Timed out
-[11:52:36] [Server thread/INFO]: Rotnni left the game
-[11:53:05] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:52986] logged in with entity id 950 at (-489.5038606523819, 70.25, -170.88749998807907)
-[11:53:05] [Server thread/INFO]: Rotnni joined the game
-[11:54:20] [Server thread/INFO]: Rotnni lost connection: Timed out
-[11:54:20] [Server thread/INFO]: Rotnni left the game
-[11:54:31] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:55314] logged in with entity id 2033 at (-522.2141398163759, 70.0, -185.35883807895166)
-[11:54:31] [Server thread/INFO]: Rotnni joined the game
-[12:48:02] [Server thread/WARN]: Rotnni moved too quickly! -3.071911089780315,-9.580328803139238,0.7139537951866259
-[12:56:36] [Server thread/WARN]: Rotnni moved wrongly!
-[12:58:02] [Server thread/WARN]: Rotnni moved too quickly! -8.337570547860082,0.25799910351528865,-5.614700134077623
-[13:06:13] [Server thread/WARN]: Rotnni moved too quickly! 0.9759655899724748,-11.728933596446751,-1.490881062224048
-[13:09:01] [Server thread/WARN]: Rotnni moved too quickly! 8.807877338532137,-0.35650334661950467,4.940987369117323
-[13:14:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-493, y=71, z=-162} jd{x=-493, y=70, z=-164}
-[13:14:34] [Server thread/WARN]: Rotnni moved too quickly! -8.581779110323453,0.2712241076924897,-5.612295652700055
-[14:19:09] [Server thread/WARN]: Rotnni moved too quickly! 0.21029562379044364,-10.221069856431772,-0.419454742605069
-[14:19:12] [Server thread/WARN]: Rotnni moved too quickly! 0.019302498317415484,-12.26235899931213,-0.566851504443548
-[14:35:16] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-471, y=71, z=-161} jd{x=-461, y=70, z=-155}
-[15:19:22] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-547, y=72, z=-197} jd{x=-549, y=71, z=-196}
-[15:21:55] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-549, y=72, z=-196} jd{x=-547, y=74, z=-196}
-[15:23:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-549, y=72, z=-196} jd{x=-550, y=69, z=-194}
-[15:23:12] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-549, y=72, z=-196} jd{x=-550, y=69, z=-195}
-[15:23:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-553, y=68, z=-197} jd{x=-544, y=68, z=-196}
-[15:48:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-542, y=76, z=-196} jd{x=-542, y=74, z=-196}
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 1.6712536676027412,0.0,-9.926971053915622
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 1.7391972593538867,0.0,-10.272964796457927
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 1.8180529403848595,0.0,-10.620226713426462
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 1.9060107663492545,0.0,-10.968975928981365
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 2.001505076334979,0.0,-11.31936400515417
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 2.1031920091170377,0.0,-11.671485371198628
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 2.919563075545966,0.0,-9.917493962142146
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.0298486957449313,0.0,-10.291332174344461
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.1397557807003977,0.0,-10.666342707505578
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.24928151495169,0.0,-11.04241953890022
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.358427052621664,0.0,-11.419466193820938
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.4671971232519354,0.0,-11.797394798226776
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.574924669354459,0.0,-12.17630272503385
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.680396377146053,0.0,-12.556402608254984
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.7819552578532694,0.0,-12.93793847547505
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.8782889282203996,0.0,-13.321015685685268
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.9683752697051204,0.0,-13.705641592158997
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.051442493651393,0.0,-14.091755388813056
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.126935428136221,0.0,-14.479251090179389
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.1944802389864435,0.0,-14.867995221971398
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.253855765099388,0.0,-15.257839900196245
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.304963406519391,0.0,-15.648632162290767
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.347807391283823,0.0,-16.040220737191532
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.382473007202634,0.0,-16.43246045456675
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.409114552193387,0.0,-16.825215706485096
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.4279368057068496,0.0,-17.21836183810848
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.439185965873321,0.0,-17.611786451469243
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.4431376910433755,0.0,-18.005389476184007
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.440086372099586,0.0,-18.39908261469776
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.430343069212768,0.0,-18.79278967746842
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.414229881670053,0.0,-19.18644602409131
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.3920711442528955,0.0,-19.579997043306548
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.364185551476112,0.0,-19.973396431103367
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.330894128888758,0.0,-20.36660752438854
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.292508629918984,0.0,-20.759600559931073
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.249336132497092,0.0,-21.152353209996306
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.201668200349559,0.0,-21.544847715380513
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.149789864511376,0.0,-21.937072369434077
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.09397274592061,0.0,-22.329019441316177
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 4.034476361038742,0.0,-22.720684960953122
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.971549296907824,0.0,-23.112068488247814
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.905426545275077,0.0,-23.503171988946917
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.836330841633526,0.0,-23.893999694639263
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.7644701497247297,0.0,-24.28455702680543
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.6900428453786844,0.0,-24.67485146503043
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.613234940700977,0.0,-25.064891469475242
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.5342213111327965,0.0,-25.454686420072164
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.4531630856899937,0.0,-25.84424561185159
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.3702127292006026,0.0,-26.233579235732805
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.2855149031363453,0.0,-26.622698322462895
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.1992035262460377,0.0,-27.01161371240994
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 3.111402846965575,0.0,-27.40033608950239
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 0.21331856015922313,0.0,-18.243930346046398
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 0.12287101964830072,0.0,-18.632296396698052
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! 0.03125506886954099,0.0,-19.020500001313906
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! -0.06143840428853764,0.0,-19.40855053879136
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! -0.1551238884767372,0.0,-19.796457422438664
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved too quickly! -0.2497207140249884,0.0,-20.18423009280849
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved wrongly! 4.544332726354639
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved wrongly! 4.544332726354639
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved wrongly! 4.544332726354639
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved wrongly! 4.544332726354639
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved wrongly! 4.544332726354639
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved wrongly! 4.544332726354639
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved wrongly! 4.1608714754168545
-[16:01:14] [Server thread/WARN]: Oak Boat (vehicle of Rotnni) moved wrongly! 3.781282719733724
-[16:12:31] [Server thread/WARN]: Rotnni moved too quickly! 0.16204960573531935,0.0,-10.106295207487165
-[16:13:05] [Server thread/WARN]: Rotnni moved too quickly! -1.0123128078304262,-0.7967356006687112,-10.048305849654042
-[16:17:07] [Server thread/WARN]: Rotnni moved too quickly! -9.882268257300893,-0.7539862017387549,-1.876665183491241
-[16:24:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-540, y=76, z=-195} jd{x=-548, y=108, z=-197}
+[16:40:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:40:32] [ServerMain/INFO]: Loaded 1290 recipes
+[16:40:32] [ServerMain/INFO]: Loaded 1399 advancements
+[16:40:33] [Server thread/INFO]: Starting minecraft server version 1.21
+[16:40:33] [Server thread/INFO]: Loading properties
+[16:40:33] [Server thread/INFO]: Default game type: SURVIVAL
+[16:40:33] [Server thread/INFO]: Generating keypair
+[16:40:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:40:33] [Server thread/INFO]: Using epoll channel type
+[16:40:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:40:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:40:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:40:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:40:33] [Server thread/INFO]: Preparing level "world"
+[16:40:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:40:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:40:36] [Server thread/INFO]: Time elapsed: 462 ms
+[16:40:36] [Server thread/INFO]: Done (2.654s)! For help, type "help"
+[16:41:13] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:54238] logged in with entity id 19 at (-496.13361045853054, 70.0, -169.71517185890843)
+[16:41:13] [Server thread/INFO]: Rotnni joined the game

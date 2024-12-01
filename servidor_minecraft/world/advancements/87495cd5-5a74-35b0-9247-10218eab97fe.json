@@ -833,6 +833,7 @@
       "minecraft:hoglin": "2024-11-17 03:04:11 +0000",
       "minecraft:piglin": "2024-11-17 03:04:15 +0000",
       "minecraft:silverfish": "2024-11-26 17:44:52 +0000",
+      "minecraft:enderman": "2024-12-01 13:03:28 +0000",
       "minecraft:spider": "2024-11-17 01:11:10 +0000",
       "minecraft:zombie": "2024-11-17 01:12:22 +0000",
       "minecraft:creeper": "2024-11-23 00:50:57 +0000",
@@ -2659,6 +2660,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_pink_dye": "2024-11-26 17:43:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-01 12:56:08 +0000"
     },
     "done": true
   },

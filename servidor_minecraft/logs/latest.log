@@ -1,94 +1,28 @@
-[21:00:46] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:00:48] [ServerMain/INFO]: Loaded 1290 recipes
-[21:00:48] [ServerMain/INFO]: Loaded 1399 advancements
-[21:00:48] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:00:48] [Server thread/INFO]: Loading properties
-[21:00:48] [Server thread/INFO]: Default game type: SURVIVAL
-[21:00:48] [Server thread/INFO]: Generating keypair
-[21:00:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:00:48] [Server thread/INFO]: Using epoll channel type
-[21:00:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:00:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:00:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:00:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:00:48] [Server thread/INFO]: Preparing level "world"
-[21:00:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:00:51] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:00:51] [Server thread/INFO]: Time elapsed: 388 ms
-[21:00:51] [Server thread/INFO]: Done (2.818s)! For help, type "help"
-[21:01:08] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:55046] logged in with entity id 19 at (-490.2028421472241, 70.0, -168.3753223591208)
-[21:01:08] [Server thread/INFO]: Rotnni joined the game
-[21:01:58] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:54580] logged in with entity id 1001 at (-684.6535737244072, 9.0, -255.5917696080175)
-[21:01:58] [Server thread/INFO]: mitskiloverr joined the game
-[21:02:28] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:02:28] [Server thread/INFO]: mitskiloverr left the game
-[21:02:28] [Server thread/WARN]: handleDisconnection() called twice
-[21:02:50] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:46274] logged in with entity id 1508 at (-684.6535737244072, 9.0, -255.5917696080175)
-[21:02:50] [Server thread/INFO]: mitskiloverr joined the game
-[21:06:22] [Server thread/WARN]: mitskiloverr moved too quickly! 9.214190215214558,-0.7539862017387549,3.9484277323443564
-[21:11:36] [Server thread/INFO]: [Not Secure] <mitskiloverr> no
-[21:11:39] [Server thread/INFO]: [Not Secure] <Rotnni> a buneo
-[21:21:06] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:21:06] [Server thread/INFO]: mitskiloverr left the game
-[21:22:50] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:34460] logged in with entity id 14093 at (-497.59427904507066, 70.41999998688698, -209.02889182425446)
-[21:22:50] [Server thread/INFO]: mitskiloverr joined the game
-[21:24:43] [Server thread/INFO]: Made Rotnni a server operator
-[21:25:06] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:25:06] [Server thread/INFO]: mitskiloverr left the game
-[21:25:24] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:38732] logged in with entity id 15795 at (-532.0404370866851, 70.0, -184.42070488477583)
-[21:25:24] [Server thread/INFO]: mitskiloverr joined the game
-[21:25:32] [Server thread/INFO]: [Not Secure] <mitskiloverr> kick
-[21:25:37] [Server thread/INFO]: [Not Secure] <mitskiloverr> kikear
-[21:25:39] [Server thread/INFO]: [Not Secure] <Rotnni> si
-[21:25:44] [Server thread/INFO]: Rotnni lost connection: You logged in from another location
-[21:25:44] [Server thread/INFO]: Rotnni left the game
-[21:25:46] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:36702] logged in with entity id 16059 at (-478.30000001192093, 70.0, -196.5040448834751)
-[21:25:46] [Server thread/INFO]: Rotnni joined the game
-[21:28:24] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:28:24] [Server thread/INFO]: mitskiloverr left the game
-[21:28:52] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:34766] logged in with entity id 17938 at (-524.1378689153462, 73.0, -179.1571474612852)
-[21:28:52] [Server thread/INFO]: mitskiloverr joined the game
-[21:29:23] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:29:23] [Server thread/INFO]: mitskiloverr left the game
-[21:30:40] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:55868] logged in with entity id 18244 at (-523.3574782573222, 69.875, -184.4744389941039)
-[21:30:40] [Server thread/INFO]: mitskiloverr joined the game
-[21:31:40] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:31:40] [Server thread/INFO]: mitskiloverr left the game
-[21:33:19] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:60908] logged in with entity id 18805 at (-523.3574782573222, 69.875, -184.4744389941039)
-[21:33:19] [Server thread/INFO]: mitskiloverr joined the game
-[21:35:04] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:35:04] [Server thread/INFO]: mitskiloverr left the game
-[21:35:26] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:42578] logged in with entity id 19181 at (-523.3574782573222, 69.875, -184.4744389941039)
-[21:35:26] [Server thread/INFO]: mitskiloverr joined the game
-[21:36:11] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:36:11] [Server thread/INFO]: mitskiloverr left the game
-[21:36:28] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:56118] logged in with entity id 19366 at (-497.40800247833823, 70.0, -195.1571917013146)
-[21:36:28] [Server thread/INFO]: mitskiloverr joined the game
-[21:38:09] [Server thread/INFO]: mitskiloverr lost connection: You logged in from another location
-[21:38:09] [Server thread/INFO]: mitskiloverr left the game
-[21:38:11] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:54882] logged in with entity id 19671 at (-500.4164607156969, 70.0, -199.38150233185405)
-[21:38:11] [Server thread/INFO]: mitskiloverr joined the game
-[21:42:12] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:42:12] [Server thread/INFO]: mitskiloverr left the game
-[21:42:21] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:54970] logged in with entity id 20742 at (-505.2600850942112, 73.41999998688698, -209.35027191239277)
-[21:42:21] [Server thread/INFO]: mitskiloverr joined the game
-[21:42:57] [Server thread/INFO]: [Not Secure] <mitskiloverr> dsij
-[21:43:02] [Server thread/INFO]: [Not Secure] <Rotnni> jajaja
-[21:43:03] [Server thread/INFO]: [Not Secure] <mitskiloverr> f
-[21:43:06] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:43:06] [Server thread/INFO]: mitskiloverr left the game
-[21:43:23] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:45606] logged in with entity id 21032 at (-500.010110475344, 70.0, -190.30000001192093)
-[21:43:23] [Server thread/INFO]: mitskiloverr joined the game
-[21:44:08] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:44:08] [Server thread/INFO]: mitskiloverr left the game
-[21:44:47] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:52720] logged in with entity id 21913 at (-530.8862457865453, 70.0, -188.45868444286563)
-[21:44:47] [Server thread/INFO]: mitskiloverr joined the game
-[21:47:02] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:47:02] [Server thread/INFO]: mitskiloverr left the game
-[21:47:30] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:49106] logged in with entity id 23741 at (-500.69999998807907, 70.0, -196.8714979410863)
-[21:47:30] [Server thread/INFO]: mitskiloverr joined the game
-[21:49:15] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[21:49:15] [Server thread/INFO]: mitskiloverr left the game
-[21:49:33] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:56018] logged in with entity id 25050 at (-501.69999998807907, 70.0, -201.30000001192093)
-[21:49:33] [Server thread/INFO]: mitskiloverr joined the game
-[21:51:12] [Server thread/INFO]: Villager cmk['Librarian'/118, l='ServerLevel[world]', x=-476.70, y=70.00, z=-200.49] died, message: 'Librarian was slain by Rotnni'
+[11:51:45] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:51:47] [ServerMain/INFO]: Loaded 1290 recipes
+[11:51:47] [ServerMain/INFO]: Loaded 1399 advancements
+[11:51:48] [Server thread/INFO]: Starting minecraft server version 1.21
+[11:51:48] [Server thread/INFO]: Loading properties
+[11:51:48] [Server thread/INFO]: Default game type: SURVIVAL
+[11:51:48] [Server thread/INFO]: Generating keypair
+[11:51:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:51:48] [Server thread/INFO]: Using epoll channel type
+[11:51:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:51:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:51:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:51:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:51:48] [Server thread/INFO]: Preparing level "world"
+[11:51:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:51:51] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[11:51:51] [Server thread/INFO]: Time elapsed: 431 ms
+[11:51:51] [Server thread/INFO]: Done (3.013s)! For help, type "help"
+[11:52:05] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:40858] logged in with entity id 19 at (-489.3675623477288, 70.0, -168.89209326794966)
+[11:52:05] [Server thread/INFO]: Rotnni joined the game
+[11:52:36] [Server thread/INFO]: Rotnni lost connection: Timed out
+[11:52:36] [Server thread/INFO]: Rotnni left the game
+[11:53:05] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:52986] logged in with entity id 950 at (-489.5038606523819, 70.25, -170.88749998807907)
+[11:53:05] [Server thread/INFO]: Rotnni joined the game
+[11:54:20] [Server thread/INFO]: Rotnni lost connection: Timed out
+[11:54:20] [Server thread/INFO]: Rotnni left the game
+[11:54:31] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:55314] logged in with entity id 2033 at (-522.2141398163759, 70.0, -185.35883807895166)
+[11:54:31] [Server thread/INFO]: Rotnni joined the game

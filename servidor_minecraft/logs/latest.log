@@ -18,3 +18,10 @@
 [16:40:36] [Server thread/INFO]: Done (2.654s)! For help, type "help"
 [16:41:13] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:54238] logged in with entity id 19 at (-496.13361045853054, 70.0, -169.71517185890843)
 [16:41:13] [Server thread/INFO]: Rotnni joined the game
+[16:52:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-77, y=92, z=-34} jd{x=-61, y=90, z=-36}
+[16:59:56] [Server thread/WARN]: Rotnni was kicked for floating too long!
+[16:59:56] [Server thread/INFO]: Rotnni lost connection: Disconnected
+[16:59:56] [Server thread/INFO]: Rotnni left the game
+[16:59:56] [Server thread/WARN]: handleDisconnection() called twice
+[17:00:18] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:52188] logged in with entity id 4659 at (78.91079503306385, 63.00133597911215, 76.9794298372316)
+[17:00:18] [Server thread/INFO]: Rotnni joined the game

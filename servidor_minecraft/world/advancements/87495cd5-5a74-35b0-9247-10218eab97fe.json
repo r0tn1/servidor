@@ -830,12 +830,15 @@
       "minecraft:blaze": "2024-11-26 17:22:00 +0000",
       "minecraft:skeleton": "2024-11-17 01:11:00 +0000",
       "minecraft:phantom": "2024-11-25 23:58:00 +0000",
+      "minecraft:zombified_piglin": "2024-12-01 16:59:53 +0000",
       "minecraft:witch": "2024-12-01 14:57:53 +0000",
       "minecraft:wither_skeleton": "2024-11-26 17:23:50 +0000",
+      "minecraft:ghast": "2024-12-01 16:58:16 +0000",
       "minecraft:hoglin": "2024-11-17 03:04:11 +0000",
       "minecraft:piglin": "2024-11-17 03:04:15 +0000",
       "minecraft:silverfish": "2024-11-26 17:44:52 +0000",
       "minecraft:enderman": "2024-12-01 13:03:28 +0000",
+      "minecraft:magma_cube": "2024-12-01 16:55:02 +0000",
       "minecraft:spider": "2024-11-17 01:11:10 +0000",
       "minecraft:zombie": "2024-11-17 01:12:22 +0000",
       "minecraft:creeper": "2024-11-23 00:50:57 +0000",
@@ -2902,6 +2905,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-01 16:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-01 16:54:53 +0000"
     },
     "done": true
   },

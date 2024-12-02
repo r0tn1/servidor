@@ -1,27 +1,44 @@
-[16:40:30] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[16:40:32] [ServerMain/INFO]: Loaded 1290 recipes
-[16:40:32] [ServerMain/INFO]: Loaded 1399 advancements
-[16:40:33] [Server thread/INFO]: Starting minecraft server version 1.21
-[16:40:33] [Server thread/INFO]: Loading properties
-[16:40:33] [Server thread/INFO]: Default game type: SURVIVAL
-[16:40:33] [Server thread/INFO]: Generating keypair
-[16:40:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:40:33] [Server thread/INFO]: Using epoll channel type
-[16:40:33] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:40:33] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:40:33] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:40:33] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:40:33] [Server thread/INFO]: Preparing level "world"
-[16:40:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:40:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:40:36] [Server thread/INFO]: Time elapsed: 462 ms
-[16:40:36] [Server thread/INFO]: Done (2.654s)! For help, type "help"
-[16:41:13] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:54238] logged in with entity id 19 at (-496.13361045853054, 70.0, -169.71517185890843)
-[16:41:13] [Server thread/INFO]: Rotnni joined the game
-[16:52:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-77, y=92, z=-34} jd{x=-61, y=90, z=-36}
-[16:59:56] [Server thread/WARN]: Rotnni was kicked for floating too long!
-[16:59:56] [Server thread/INFO]: Rotnni lost connection: Disconnected
-[16:59:56] [Server thread/INFO]: Rotnni left the game
-[16:59:56] [Server thread/WARN]: handleDisconnection() called twice
-[17:00:18] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:52188] logged in with entity id 4659 at (78.91079503306385, 63.00133597911215, 76.9794298372316)
-[17:00:18] [Server thread/INFO]: Rotnni joined the game
+[01:44:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:44:50] [ServerMain/INFO]: Loaded 1290 recipes
+[01:44:51] [ServerMain/INFO]: Loaded 1399 advancements
+[01:44:51] [Server thread/INFO]: Starting minecraft server version 1.21
+[01:44:51] [Server thread/INFO]: Loading properties
+[01:44:51] [Server thread/INFO]: Default game type: SURVIVAL
+[01:44:51] [Server thread/INFO]: Generating keypair
+[01:44:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:44:52] [Server thread/INFO]: Using epoll channel type
+[01:44:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:44:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:44:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:44:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:44:52] [Server thread/INFO]: Preparing level "world"
+[01:44:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:44:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:44:56] [Server thread/INFO]: Time elapsed: 472 ms
+[01:44:56] [Server thread/INFO]: Done (4.573s)! For help, type "help"
+[01:45:14] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:52640] logged in with entity id 19 at (-489.5, 70.0, -170.5)
+[01:45:14] [Server thread/INFO]: Rotnni joined the game
+[01:45:54] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:54026] logged in with entity id 991 at (-481.9078719226771, 70.0, -200.157549161119)
+[01:45:54] [Server thread/INFO]: mitskiloverr joined the game
+[01:46:48] [Server thread/INFO]: __MADIK__[/[0:0:0:0:0:0:0:1%0]:54234] logged in with entity id 1237 at (-524.8593386323371, 73.0, -195.55746804739582)
+[01:46:48] [Server thread/INFO]: __MADIK__ joined the game
+[01:48:00] [Server thread/WARN]: mitskiloverr moved too quickly! -9.970457688617898,1.0244240882136921,0.8725630736574033
+[01:48:09] [Server thread/INFO]: mitskiloverr lost connection: Timed out
+[01:48:09] [Server thread/INFO]: mitskiloverr left the game
+[01:48:09] [Server thread/WARN]: handleDisconnection() called twice
+[01:49:03] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:51714] logged in with entity id 1683 at (-510.0204519828471, 71.17675927506424, -167.39324338780017)
+[01:49:03] [Server thread/INFO]: mitskiloverr joined the game
+[01:49:48] [Server thread/INFO]: mitskiloverr lost connection: Timed out
+[01:49:48] [Server thread/INFO]: mitskiloverr left the game
+[01:50:37] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:40774] logged in with entity id 1957 at (-511.6677029023847, 70.0, -163.1534032685521)
+[01:50:37] [Server thread/INFO]: mitskiloverr joined the game
+[01:50:53] [Server thread/INFO]: [Not Secure] <mitskiloverr> jonathan
+[01:51:02] [Server thread/INFO]: [Not Secure] <Rotnni> wingston
+[01:51:07] [Server thread/INFO]: mitskiloverr lost connection: Timed out
+[01:51:07] [Server thread/INFO]: mitskiloverr left the game
+[01:52:16] [Server thread/INFO]: [Not Secure] <__MADIK__> Me puedes dar 3 pociones de vision nocturna. porfa?
+[01:52:21] [Server thread/INFO]: [Not Secure] * __MADIK__ quiero reponer
+[01:53:13] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:47654] logged in with entity id 2354 at (-511.6677029023847, 70.0, -163.1534032685521)
+[01:53:13] [Server thread/INFO]: mitskiloverr joined the game
+[01:54:28] [Server thread/INFO]: mitskiloverr lost connection: Timed out
+[01:54:28] [Server thread/INFO]: mitskiloverr left the game

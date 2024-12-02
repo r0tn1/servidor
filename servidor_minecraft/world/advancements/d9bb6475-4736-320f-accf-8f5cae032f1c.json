@@ -1344,11 +1344,17 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "minecraft:crimson_forest": "2024-11-17 03:04:30 +0000"
+      "has_bow": "2024-11-17 02:56:13 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-11-17 02:57:04 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -1362,17 +1368,11 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:nether/explore_nether": {
     "criteria": {
-      "shot_arrow": "2024-11-17 02:57:04 +0000"
+      "minecraft:crimson_forest": "2024-11-17 03:04:30 +0000"
     },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2024-11-17 02:56:13 +0000"
-    },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {

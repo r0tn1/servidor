@@ -86,3 +86,5 @@
 [02:00:53] [Server thread/INFO]: mitskiloverr has completed the challenge [Hot Tourist Destinations]
 [02:03:46] [Server thread/INFO]: mitskiloverr lost connection: Timed out
 [02:03:46] [Server thread/INFO]: mitskiloverr left the game
+[02:12:07] [Server thread/WARN]: Rotnni moved too quickly! 7.660093924844205,1.1767592750642422,-6.749546507337207
+[02:13:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=444, y=73, z=-15} jd{x=447, y=86, z=-36}

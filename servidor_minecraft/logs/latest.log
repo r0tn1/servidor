@@ -60,3 +60,10 @@
 [01:04:19] [Server thread/INFO]: Rotnni joined the game
 [01:14:22] [Server thread/INFO]: [Not Secure] <mitskiloverr> kick
 [01:14:26] [Server thread/INFO]: [Not Secure] <Rotnni> ok
+[01:22:11] [Server thread/INFO]: [Not Secure] <mitskiloverr> jonathan
+[01:22:14] [Server thread/INFO]: [Not Secure] <Rotnni> winston
+[01:23:14] [Server thread/INFO]: Rotnni has made the advancement [Oh Shiny]
+[01:24:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=56, y=50, z=52} jd{x=76, y=62, z=70}
+[01:24:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=56, y=50, z=52} jd{x=76, y=62, z=71}
+[01:24:20] [Server thread/INFO]: mitskiloverr has made the advancement [A Terrible Fortress]
+[01:24:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=56, y=50, z=52} jd{x=182, y=63, z=110}

@@ -1656,9 +1656,10 @@
       "minecraft:crimson_forest": "2024-11-17 02:01:21 +0000",
       "minecraft:nether_wastes": "2024-11-26 16:32:36 +0000",
       "minecraft:soul_sand_valley": "2024-11-26 16:32:22 +0000",
-      "minecraft:basalt_deltas": "2024-11-26 17:25:05 +0000"
+      "minecraft:basalt_deltas": "2024-11-26 17:25:05 +0000",
+      "minecraft:warped_forest": "2024-12-04 01:30:37 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
@@ -2917,6 +2918,18 @@
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2024-12-04 01:23:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-04 01:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-04 01:34:55 +0000"
     },
     "done": true
   },

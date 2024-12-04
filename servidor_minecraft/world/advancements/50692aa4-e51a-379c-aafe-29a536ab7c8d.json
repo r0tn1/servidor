@@ -600,6 +600,7 @@
       "minecraft:zombie": "2024-11-17 01:14:25 +0000",
       "minecraft:creeper": "2024-11-21 04:53:55 +0000",
       "minecraft:drowned": "2024-11-25 23:07:14 +0000",
+      "minecraft:zombie_villager": "2024-12-04 00:59:11 +0000",
       "minecraft:hoglin": "2024-11-26 01:35:47 +0000"
     },
     "done": false
@@ -2167,6 +2168,24 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_the_recipe": "2024-11-30 21:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-04 01:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-04 01:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-04 01:01:02 +0000"
     },
     "done": true
   },

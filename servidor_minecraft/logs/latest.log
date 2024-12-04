@@ -1,80 +1,22 @@
-[01:44:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:44:50] [ServerMain/INFO]: Loaded 1290 recipes
-[01:44:51] [ServerMain/INFO]: Loaded 1399 advancements
-[01:44:51] [Server thread/INFO]: Starting minecraft server version 1.21
-[01:44:51] [Server thread/INFO]: Loading properties
-[01:44:51] [Server thread/INFO]: Default game type: SURVIVAL
-[01:44:51] [Server thread/INFO]: Generating keypair
-[01:44:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:44:52] [Server thread/INFO]: Using epoll channel type
-[01:44:52] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:44:52] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:44:52] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:44:52] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:44:52] [Server thread/INFO]: Preparing level "world"
-[01:44:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:44:56] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:44:56] [Server thread/INFO]: Time elapsed: 472 ms
-[01:44:56] [Server thread/INFO]: Done (4.573s)! For help, type "help"
-[01:45:14] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:52640] logged in with entity id 19 at (-489.5, 70.0, -170.5)
-[01:45:14] [Server thread/INFO]: Rotnni joined the game
-[01:45:54] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:54026] logged in with entity id 991 at (-481.9078719226771, 70.0, -200.157549161119)
-[01:45:54] [Server thread/INFO]: mitskiloverr joined the game
-[01:46:48] [Server thread/INFO]: __MADIK__[/[0:0:0:0:0:0:0:1%0]:54234] logged in with entity id 1237 at (-524.8593386323371, 73.0, -195.55746804739582)
-[01:46:48] [Server thread/INFO]: __MADIK__ joined the game
-[01:48:00] [Server thread/WARN]: mitskiloverr moved too quickly! -9.970457688617898,1.0244240882136921,0.8725630736574033
-[01:48:09] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[01:48:09] [Server thread/INFO]: mitskiloverr left the game
-[01:48:09] [Server thread/WARN]: handleDisconnection() called twice
-[01:49:03] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:51714] logged in with entity id 1683 at (-510.0204519828471, 71.17675927506424, -167.39324338780017)
-[01:49:03] [Server thread/INFO]: mitskiloverr joined the game
-[01:49:48] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[01:49:48] [Server thread/INFO]: mitskiloverr left the game
-[01:50:37] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:40774] logged in with entity id 1957 at (-511.6677029023847, 70.0, -163.1534032685521)
-[01:50:37] [Server thread/INFO]: mitskiloverr joined the game
-[01:50:53] [Server thread/INFO]: [Not Secure] <mitskiloverr> jonathan
-[01:51:02] [Server thread/INFO]: [Not Secure] <Rotnni> wingston
-[01:51:07] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[01:51:07] [Server thread/INFO]: mitskiloverr left the game
-[01:52:16] [Server thread/INFO]: [Not Secure] <__MADIK__> Me puedes dar 3 pociones de vision nocturna. porfa?
-[01:52:21] [Server thread/INFO]: [Not Secure] * __MADIK__ quiero reponer
-[01:53:13] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:47654] logged in with entity id 2354 at (-511.6677029023847, 70.0, -163.1534032685521)
-[01:53:13] [Server thread/INFO]: mitskiloverr joined the game
-[01:54:28] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[01:54:28] [Server thread/INFO]: mitskiloverr left the game
-[01:55:37] [Server thread/INFO]: __MADIK__ was burned to a crisp while fighting Rotnni
-[01:55:55] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:41782] logged in with entity id 2924 at (-513.1820210285077, 70.0, -169.82369839677762)
-[01:55:55] [Server thread/INFO]: mitskiloverr joined the game
-[01:56:25] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[01:56:25] [Server thread/INFO]: mitskiloverr left the game
-[01:56:52] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:41790] logged in with entity id 3103 at (-513.1820210285077, 70.0, -169.82369839677762)
-[01:56:52] [Server thread/INFO]: mitskiloverr joined the game
-[01:56:53] [Server thread/INFO]: [Rotnni: Kicked __MADIK__: Kicked by an operator]
-[01:56:53] [Server thread/INFO]: __MADIK__ lost connection: Kicked by an operator
-[01:56:53] [Server thread/INFO]: __MADIK__ left the game
-[01:56:59] [Server thread/INFO]: __MADIK__[/[0:0:0:0:0:0:0:1%0]:55596] logged in with entity id 3127 at (-507.6512412881966, 70.0, -167.80434036576997)
-[01:56:59] [Server thread/INFO]: __MADIK__ joined the game
-[01:56:59] [Server thread/INFO]: [Rotnni: Kicked mitskiloverr: Kicked by an operator]
-[01:56:59] [Server thread/INFO]: mitskiloverr lost connection: Kicked by an operator
-[01:56:59] [Server thread/INFO]: mitskiloverr left the game
-[01:57:03] [Server thread/INFO]: [Rotnni: Kicked __MADIK__: Kicked by an operator]
-[01:57:03] [Server thread/INFO]: __MADIK__ lost connection: Kicked by an operator
-[01:57:03] [Server thread/INFO]: __MADIK__ left the game
-[01:57:09] [Server thread/INFO]: __MADIK__[/[0:0:0:0:0:0:0:1%0]:53910] logged in with entity id 3192 at (-514.5, 70.0, -167.5)
-[01:57:09] [Server thread/INFO]: __MADIK__ joined the game
-[01:57:26] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:41504] logged in with entity id 3245 at (-513.1820210285077, 70.0, -169.82369839677762)
-[01:57:26] [Server thread/INFO]: mitskiloverr joined the game
-[01:58:11] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[01:58:11] [Server thread/INFO]: mitskiloverr left the game
-[01:58:25] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:36480] logged in with entity id 3354 at (-513.1820210285077, 70.0, -169.82369839677762)
-[01:58:25] [Server thread/INFO]: mitskiloverr joined the game
-[01:59:10] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[01:59:10] [Server thread/INFO]: mitskiloverr left the game
-[02:00:01] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:60106] logged in with entity id 3657 at (-513.1820210285077, 70.0, -169.82369839677762)
-[02:00:01] [Server thread/INFO]: mitskiloverr joined the game
-[02:00:31] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[02:00:31] [Server thread/INFO]: mitskiloverr left the game
-[02:01:29] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:52048] logged in with entity id 4068 at (-513.1820210285077, 70.0, -169.82369839677762)
-[02:01:29] [Server thread/INFO]: mitskiloverr joined the game
-[02:02:14] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[02:02:14] [Server thread/INFO]: mitskiloverr left the game
+[00:34:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:34:59] [ServerMain/INFO]: Loaded 1290 recipes
+[00:34:59] [ServerMain/INFO]: Loaded 1399 advancements
+[00:35:00] [Server thread/INFO]: Starting minecraft server version 1.21
+[00:35:00] [Server thread/INFO]: Loading properties
+[00:35:00] [Server thread/INFO]: Default game type: SURVIVAL
+[00:35:00] [Server thread/INFO]: Generating keypair
+[00:35:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:35:00] [Server thread/INFO]: Using epoll channel type
+[00:35:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[00:35:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[00:35:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[00:35:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[00:35:00] [Server thread/INFO]: Preparing level "world"
+[00:35:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:35:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[00:35:04] [Server thread/INFO]: Time elapsed: 511 ms
+[00:35:04] [Server thread/INFO]: Done (4.373s)! For help, type "help"
+[00:35:14] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:37738] logged in with entity id 19 at (-491.58438721804004, 70.0, -170.97260861754665)
+[00:35:14] [Server thread/INFO]: Rotnni joined the game
+[00:35:33] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:46728] logged in with entity id 660 at (-513.1820210285077, 70.0, -169.82369839677762)
+[00:35:33] [Server thread/INFO]: mitskiloverr joined the game

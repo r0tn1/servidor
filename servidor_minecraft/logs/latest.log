@@ -1,90 +1,23 @@
-[00:34:56] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:34:59] [ServerMain/INFO]: Loaded 1290 recipes
-[00:34:59] [ServerMain/INFO]: Loaded 1399 advancements
-[00:35:00] [Server thread/INFO]: Starting minecraft server version 1.21
-[00:35:00] [Server thread/INFO]: Loading properties
-[00:35:00] [Server thread/INFO]: Default game type: SURVIVAL
-[00:35:00] [Server thread/INFO]: Generating keypair
-[00:35:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:35:00] [Server thread/INFO]: Using epoll channel type
-[00:35:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:35:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:35:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:35:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:35:00] [Server thread/INFO]: Preparing level "world"
-[00:35:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:35:04] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:35:04] [Server thread/INFO]: Time elapsed: 511 ms
-[00:35:04] [Server thread/INFO]: Done (4.373s)! For help, type "help"
-[00:35:14] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:37738] logged in with entity id 19 at (-491.58438721804004, 70.0, -170.97260861754665)
-[00:35:14] [Server thread/INFO]: Rotnni joined the game
-[00:35:33] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:46728] logged in with entity id 660 at (-513.1820210285077, 70.0, -169.82369839677762)
-[00:35:33] [Server thread/INFO]: mitskiloverr joined the game
-[00:49:35] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[00:49:35] [Server thread/INFO]: mitskiloverr left the game
-[00:49:35] [Server thread/WARN]: handleDisconnection() called twice
-[00:49:58] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:41104] logged in with entity id 6803 at (-489.02749679175616, 70.25, -170.88749998807907)
-[00:49:58] [Server thread/INFO]: mitskiloverr joined the game
-[00:50:43] [Server thread/INFO]: [Not Secure] <mitskiloverr> cshjv
-[00:50:59] [Server thread/INFO]: [Not Secure] <mitskiloverr> jonathan
-[00:51:07] [Server thread/INFO]: [Not Secure] <Rotnni> winston
-[00:51:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-529, y=69, z=-180} jd{x=-489, y=69, z=-169}
-[00:53:43] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[00:53:43] [Server thread/INFO]: mitskiloverr left the game
-[00:54:19] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:48166] logged in with entity id 8617 at (-521.1853245794081, 71.17675927506424, -244.34222090100894)
-[00:54:19] [Server thread/INFO]: mitskiloverr joined the game
-[00:55:04] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[00:55:04] [Server thread/INFO]: mitskiloverr left the game
-[00:55:21] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:38386] logged in with entity id 9009 at (-495.4875871612867, 73.0, -187.3230543317633)
-[00:55:21] [Server thread/INFO]: mitskiloverr joined the game
-[00:56:18] [Server thread/INFO]: [Not Secure] <Rotnni> voy a orar
-[00:59:08] [Server thread/INFO]: Rotnni lost connection: You logged in from another location
-[00:59:08] [Server thread/INFO]: Rotnni left the game
-[00:59:12] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:40668] logged in with entity id 10499 at (-536.5894366769573, -31.0, -301.77263419862595)
-[00:59:12] [Server thread/INFO]: Rotnni joined the game
-[00:59:22] [Server thread/INFO]: Rotnni lost connection: You logged in from another location
-[00:59:22] [Server thread/INFO]: Rotnni left the game
-[00:59:24] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:60800] logged in with entity id 10717 at (-536.5894366769573, -31.0, -301.77263419862595)
-[00:59:24] [Server thread/INFO]: Rotnni joined the game
-[00:59:41] [Server thread/INFO]: Rotnni lost connection: You logged in from another location
-[00:59:41] [Server thread/INFO]: Rotnni left the game
-[00:59:43] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:34394] logged in with entity id 10948 at (-535.3000000119209, -29.0, -302.9114394017834)
-[00:59:43] [Server thread/INFO]: Rotnni joined the game
-[01:00:37] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[01:00:37] [Server thread/INFO]: mitskiloverr left the game
-[01:00:55] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:57486] logged in with entity id 11593 at (-508.43209854122404, 70.0, -168.69999998807907)
-[01:00:55] [Server thread/INFO]: mitskiloverr joined the game
-[01:04:14] [Server thread/INFO]: Rotnni lost connection: Timed out
-[01:04:14] [Server thread/INFO]: Rotnni left the game
-[01:04:19] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:56356] logged in with entity id 12782 at (-531.6480385950323, -35.0, -293.64834412053415)
-[01:04:19] [Server thread/INFO]: Rotnni joined the game
-[01:14:22] [Server thread/INFO]: [Not Secure] <mitskiloverr> kick
-[01:14:26] [Server thread/INFO]: [Not Secure] <Rotnni> ok
-[01:22:11] [Server thread/INFO]: [Not Secure] <mitskiloverr> jonathan
-[01:22:14] [Server thread/INFO]: [Not Secure] <Rotnni> winston
-[01:23:14] [Server thread/INFO]: Rotnni has made the advancement [Oh Shiny]
-[01:24:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=56, y=50, z=52} jd{x=76, y=62, z=70}
-[01:24:01] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=56, y=50, z=52} jd{x=76, y=62, z=71}
-[01:24:20] [Server thread/INFO]: mitskiloverr has made the advancement [A Terrible Fortress]
-[01:24:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=56, y=50, z=52} jd{x=182, y=63, z=110}
-[01:28:03] [Server thread/INFO]: [Not Secure] <Rotnni> BRO?
-[01:28:33] [Server thread/INFO]: [Not Secure] <Rotnni> en plan halbla
-[01:28:49] [Server thread/INFO]: [Not Secure] <mitskiloverr> estoy hablando bro
-[01:28:51] [Server thread/INFO]: [Not Secure] <Rotnni> a
-[01:29:10] [Server thread/INFO]: [Not Secure] <Rotnni> te saliste de la llamada
-[01:29:34] [Server thread/INFO]: [Not Secure] <mitskiloverr> se me apago el cel
-[01:29:37] [Server thread/INFO]: [Not Secure] <Rotnni> a
-[01:29:55] [Server thread/INFO]: [Not Secure] <Rotnni> y entonce
-[01:29:56] [Server thread/INFO]: [Not Secure] <mitskiloverr> dame un segundo que entro en la compu
-[01:30:01] [Server thread/INFO]: [Not Secure] <Rotnni> AA OKKO
-[01:30:37] [Server thread/INFO]: Rotnni has completed the challenge [Hot Tourist Destinations]
-[01:37:43] [Server thread/INFO]: [Not Secure] <mitskiloverr> me escuchas?
-[01:37:45] [Server thread/INFO]: [Not Secure] <Rotnni> no
-[01:43:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=460, y=56, z=53} jd{x=463, y=64, z=48}
-[01:45:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=502, y=76, z=50} jd{x=501, y=74, z=49}
-[01:45:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=502, y=76, z=50} jd{x=501, y=74, z=49}
-[02:00:53] [Server thread/INFO]: mitskiloverr has completed the challenge [Hot Tourist Destinations]
-[02:03:46] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[02:03:46] [Server thread/INFO]: mitskiloverr left the game
-[02:12:07] [Server thread/WARN]: Rotnni moved too quickly! 7.660093924844205,1.1767592750642422,-6.749546507337207
-[02:13:46] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=444, y=73, z=-15} jd{x=447, y=86, z=-36}
+[04:30:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[04:30:06] [ServerMain/INFO]: Loaded 1290 recipes
+[04:30:07] [ServerMain/INFO]: Loaded 1399 advancements
+[04:30:07] [Server thread/INFO]: Starting minecraft server version 1.21
+[04:30:07] [Server thread/INFO]: Loading properties
+[04:30:07] [Server thread/INFO]: Default game type: SURVIVAL
+[04:30:07] [Server thread/INFO]: Generating keypair
+[04:30:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[04:30:07] [Server thread/INFO]: Using epoll channel type
+[04:30:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[04:30:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[04:30:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[04:30:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[04:30:07] [Server thread/INFO]: Preparing level "world"
+[04:30:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[04:30:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[04:30:10] [Server thread/INFO]: Time elapsed: 423 ms
+[04:30:10] [Server thread/INFO]: Done (2.680s)! For help, type "help"
+[04:30:22] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:52386] logged in with entity id 27 at (1315.3963458648698, 93.3509890400718, -100.58422623670783)
+[04:30:22] [Server thread/INFO]: Rotnni joined the game
+[04:30:50] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:52882] logged in with entity id 493 at (1134.7449385154807, 76.3579102709717, 328.04306002409066)
+[04:30:50] [Server thread/INFO]: mitskiloverr joined the game
+[04:38:32] [Server thread/INFO]: [Rotnni: Teleported Rotnni to mitskiloverr]

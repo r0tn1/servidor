@@ -24,3 +24,11 @@
 [04:47:52] [Server thread/INFO]: [Not Secure] <mitskiloverr> kik
 [04:48:24] [Server thread/INFO]: [Not Secure] <mitskiloverr> cic
 [04:48:28] [Server thread/INFO]: [Not Secure] <Rotnni> noc
+[04:52:24] [Server thread/INFO]: Rotnni lost connection: Timed out
+[04:52:24] [Server thread/INFO]: Rotnni left the game
+[04:52:24] [Server thread/WARN]: handleDisconnection() called twice
+[05:17:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-509, y=70, z=-167} jd{x=-512, y=70, z=-151}
+[05:18:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-512, y=69, z=-151} jd{x=-514, y=69, z=-153}
+[05:18:20] [Server thread/INFO]: mitskiloverr was blown up by Creeper
+[05:20:24] [Server thread/INFO]: mitskiloverr lost connection: Timed out
+[05:20:24] [Server thread/INFO]: mitskiloverr left the game

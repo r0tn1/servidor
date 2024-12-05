@@ -3327,5 +3327,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2024-12-05 19:38:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

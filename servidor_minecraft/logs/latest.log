@@ -1,34 +1,22 @@
-[04:30:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:30:06] [ServerMain/INFO]: Loaded 1290 recipes
-[04:30:07] [ServerMain/INFO]: Loaded 1399 advancements
-[04:30:07] [Server thread/INFO]: Starting minecraft server version 1.21
-[04:30:07] [Server thread/INFO]: Loading properties
-[04:30:07] [Server thread/INFO]: Default game type: SURVIVAL
-[04:30:07] [Server thread/INFO]: Generating keypair
-[04:30:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:30:07] [Server thread/INFO]: Using epoll channel type
-[04:30:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:30:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:30:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:30:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:30:07] [Server thread/INFO]: Preparing level "world"
-[04:30:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:30:10] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[04:30:10] [Server thread/INFO]: Time elapsed: 423 ms
-[04:30:10] [Server thread/INFO]: Done (2.680s)! For help, type "help"
-[04:30:22] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:52386] logged in with entity id 27 at (1315.3963458648698, 93.3509890400718, -100.58422623670783)
-[04:30:22] [Server thread/INFO]: Rotnni joined the game
-[04:30:50] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:52882] logged in with entity id 493 at (1134.7449385154807, 76.3579102709717, 328.04306002409066)
-[04:30:50] [Server thread/INFO]: mitskiloverr joined the game
-[04:38:32] [Server thread/INFO]: [Rotnni: Teleported Rotnni to mitskiloverr]
-[04:47:52] [Server thread/INFO]: [Not Secure] <mitskiloverr> kik
-[04:48:24] [Server thread/INFO]: [Not Secure] <mitskiloverr> cic
-[04:48:28] [Server thread/INFO]: [Not Secure] <Rotnni> noc
-[04:52:24] [Server thread/INFO]: Rotnni lost connection: Timed out
-[04:52:24] [Server thread/INFO]: Rotnni left the game
-[04:52:24] [Server thread/WARN]: handleDisconnection() called twice
-[05:17:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-509, y=70, z=-167} jd{x=-512, y=70, z=-151}
-[05:18:03] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-512, y=69, z=-151} jd{x=-514, y=69, z=-153}
-[05:18:20] [Server thread/INFO]: mitskiloverr was blown up by Creeper
-[05:20:24] [Server thread/INFO]: mitskiloverr lost connection: Timed out
-[05:20:24] [Server thread/INFO]: mitskiloverr left the game
+[19:37:37] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:37:39] [ServerMain/INFO]: Loaded 1290 recipes
+[19:37:40] [ServerMain/INFO]: Loaded 1399 advancements
+[19:37:40] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:37:40] [Server thread/INFO]: Loading properties
+[19:37:40] [Server thread/INFO]: Default game type: SURVIVAL
+[19:37:40] [Server thread/INFO]: Generating keypair
+[19:37:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:37:40] [Server thread/INFO]: Using epoll channel type
+[19:37:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:37:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:37:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:37:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:37:41] [Server thread/INFO]: Preparing level "world"
+[19:37:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:37:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:37:46] [Worker-Main-3/INFO]: Preparing spawn area: 36%
+[19:37:46] [Server thread/INFO]: Time elapsed: 573 ms
+[19:37:46] [Server thread/INFO]: Done (5.326s)! For help, type "help"
+[19:37:53] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:60710] logged in with entity id 19 at (-489.34044911474416, 70.25, -169.88749998807907)
+[19:37:53] [Server thread/INFO]: Rotnni joined the game
+[19:38:51] [Server thread/INFO]: Rotnni has made the advancement [A Seedy Place]

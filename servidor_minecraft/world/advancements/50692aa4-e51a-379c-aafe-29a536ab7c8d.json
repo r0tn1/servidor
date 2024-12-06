@@ -2946,5 +2946,95 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2024-12-06 04:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2024-12-06 04:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-06 04:33:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-06 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-06 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2024-12-06 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-06 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2024-12-06 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2024-12-06 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-06 04:34:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-06 04:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-06 04:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_brown_dye": "2024-12-06 04:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_candle": {
+    "criteria": {
+      "has_brown_dye": "2024-12-06 04:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_brown_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-06 04:34:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }

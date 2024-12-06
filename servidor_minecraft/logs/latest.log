@@ -69,3 +69,5 @@
 [04:06:17] [Server thread/INFO]: mitskiloverr joined the game
 [04:07:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-35, y=88, z=-25} jd{x=-34, y=87, z=-22}
 [04:10:47] [Server thread/WARN]: Rotnni moved too quickly! -11.291454393020679,8.025217923939834,-12.195159783074878
+[04:12:50] [Server thread/INFO]: [Rotnni: Teleported mitskiloverr to Rotnni]
+[04:15:05] [Server thread/WARN]: Rotnni moved too quickly! 17.99888790458786,-3.3735177661487157,0.14904997998561953

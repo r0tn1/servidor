@@ -61,3 +61,11 @@
 [03:56:49] [Server thread/INFO]: Rotnni left the game
 [03:57:00] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:35376] logged in with entity id 17741 at (-489.0530300692039, 70.0, -167.85359836288958)
 [03:57:00] [Server thread/INFO]: Rotnni joined the game
+[04:03:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-504, y=69, z=-165} jd{x=36, y=64, z=34}
+[04:03:05] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-504, y=69, z=-165} jd{x=36, y=64, z=34}
+[04:05:42] [Server thread/INFO]: mitskiloverr lost connection: Timed out
+[04:05:42] [Server thread/INFO]: mitskiloverr left the game
+[04:06:17] [Server thread/INFO]: mitskiloverr[/[0:0:0:0:0:0:0:1%0]:57766] logged in with entity id 24633 at (-481.2394048211758, 71.17675927506424, -195.4912650067216)
+[04:06:17] [Server thread/INFO]: mitskiloverr joined the game
+[04:07:52] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-35, y=88, z=-25} jd{x=-34, y=87, z=-22}
+[04:10:47] [Server thread/WARN]: Rotnni moved too quickly! -11.291454393020679,8.025217923939834,-12.195159783074878

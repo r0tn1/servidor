@@ -20,3 +20,5 @@
 [15:09:04] [Server thread/INFO]: Rotnni[/[0:0:0:0:0:0:0:1%0]:42116] logged in with entity id 19 at (-490.13985679202983, 70.0, -169.3174671654164)
 [15:09:05] [Server thread/INFO]: Rotnni joined the game
 [15:26:47] [Server thread/WARN]: Rotnni moved wrongly!
+[15:44:19] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-532, y=-44, z=-315} jd{x=-532, y=-45, z=-316}
+[15:44:20] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-532, y=-43, z=-315} jd{x=-532, y=-44, z=-316}

@@ -3423,5 +3423,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-07 16:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2024-12-07 16:01:31 +0000",
+      "minecraft:calico": "2024-12-07 16:04:16 +0000",
+      "minecraft:siamese": "2024-12-07 16:03:11 +0000",
+      "minecraft:black": "2024-12-07 16:06:15 +0000",
+      "minecraft:british_shorthair": "2024-12-07 16:01:10 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3953
 }

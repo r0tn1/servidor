@@ -844,6 +844,7 @@
       "minecraft:enderman": "2024-12-01 13:03:28 +0000",
       "minecraft:magma_cube": "2024-12-01 16:55:02 +0000",
       "minecraft:spider": "2024-11-17 01:11:10 +0000",
+      "minecraft:piglin_brute": "2024-12-08 13:37:05 +0000",
       "minecraft:zombie": "2024-11-17 01:12:22 +0000",
       "minecraft:creeper": "2024-11-23 00:50:57 +0000",
       "minecraft:drowned": "2024-11-25 23:06:46 +0000",
@@ -3438,6 +3439,12 @@
       "minecraft:british_shorthair": "2024-12-07 16:01:10 +0000"
     },
     "done": false
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-08 13:36:17 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3953
 }

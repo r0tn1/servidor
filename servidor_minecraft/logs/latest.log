@@ -26,3 +26,6 @@
 [13:43:59] [Server thread/WARN]: Rotnni moved wrongly!
 [14:51:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-530, y=66, z=-262} jd{x=-532, y=66, z=-263}
 [15:01:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-540, y=66, z=-262} jd{x=-541, y=69, z=-261}
+[15:02:22] [Server thread/WARN]: Rotnni moved too quickly! -7.307778192311957,1.4745467827535208,-15.768412429889054
+[15:02:33] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-540, y=66, z=-262} jd{x=-542, y=67, z=-263}
+[15:08:11] [Server thread/WARN]: Rotnni moved wrongly!

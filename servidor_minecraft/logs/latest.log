@@ -24,3 +24,5 @@
 [13:42:54] [Server thread/INFO]: Rotnni has made the advancement [War Pigs]
 [13:43:18] [Server thread/INFO]: Rotnni has made the advancement [Hidden in the Depths]
 [13:43:59] [Server thread/WARN]: Rotnni moved wrongly!
+[14:51:56] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-530, y=66, z=-262} jd{x=-532, y=66, z=-263}
+[15:01:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=-540, y=66, z=-262} jd{x=-541, y=69, z=-261}
